@@ -1,4 +1,4 @@
-export const host = 'http://localhost:5000';
+export const host = 'https://chat-back-d48r.vercel.app/';
 export const registerroute=`${host}/api/auth/register`
 export const loginroute=`${host}/api/auth/login`
 export const avatarroute=`${host}/api/auth/avatar`
